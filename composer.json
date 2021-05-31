@@ -13,7 +13,7 @@
     "homepage": "https://github.com/tinxit/orderstatus",
     "keywords": [
         "magento",
-        "magento2",
+        "magento2"
     ],
     "require": {
         "php": "~7.3.0",
