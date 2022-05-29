@@ -1,7 +1,7 @@
 {
     "name": "tinxit/colorstatus",
     "description": "Assigns a color to order status in Magento 2",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "type": "magento2-module",
     "license": "OSL-3.0",
     "authors": [
@@ -16,7 +16,7 @@
         "magento2"
     ],
     "require": {
-        "php": "~7.3.0",
+        "php": "~8.1.0",
         "magento/magento-composer-installer": "*"
     },
     "autoload": {
